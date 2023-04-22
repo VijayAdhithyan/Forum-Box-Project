@@ -1,0 +1,18 @@
+.display-ans-container{
+    display: flex;
+    margin: 10px;
+    border-bottom: 1px solid #11111151;
+}
+
+.display-ans{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    flex-grow: 1;
+    margin-bottom: 10px;
+}
+
+.answered-user-details{
+    align-self: flex-end;
+    margin-bottom: 10px;
+}
